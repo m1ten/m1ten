@@ -1,4 +1,4 @@
-## Hey, I'm [m1ten](https://www.m1ten.me/) 👋
+## Hey, I'm [miten](https://www.m1ten.me/) 👋
 
 ### Useless Facts
 - Vim > Emacs
