@@ -1,7 +1,7 @@
 ## Hey, I'm [miten](https://www.m1ten.me/) 👋
 
 ### ~~Useless Facts~~
-- Vim > Emacs
+- Neovim > Vim > Emacs
 - C/C++ > Python > Rust
 
 ### ~~Useless~~ Stats
