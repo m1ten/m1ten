@@ -1,9 +1,5 @@
 ## Hey, I'm [miten](https://www.m1ten.me/) 👋
 
-### ~~Useless Facts~~
-- Neovim > Vim > Emacs
-- C/C++ > Python > Rust
-
 ### ~~Useless~~ Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=m1ten&show_icons=true&include_all_commits=true&theme=dark" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m1ten&layout=compact&theme=dark" />
