@@ -2,7 +2,6 @@
 
 * Hallo
 * Bok
-* Hello
 * Namaste
 * Konnichiwa
 * Hola
