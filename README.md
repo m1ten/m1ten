@@ -1,4 +1,4 @@
-### there was something here 
+### In the distant future, I encountered a peculiar anomaly. Could there have been an object here in the past?
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=m1ten&theme=gruvbox&rank_icon=github" />
